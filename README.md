@@ -1,0 +1,32 @@
+# Zenoti Unofficial API
+
+Unofficial Python integrations for Zenoti.
+
+## Integrations
+
+- `zenoti_list_guests.py` - `list_guests` (124,173 live events).
+- `zenoti_get_guest_profile.py` - `get_guest_profile` (15,904 live events).
+- `zenoti_list_appointments.py` - `list_appointments` (7,124 live events).
+- `zenoti_list_employees.py` - `list_employees` (2,265 live events).
+
+## Usage
+
+Each file exposes a `run(input, context)` entrypoint. The runtime is expected to provide:
+
+- `input`: integration-specific request fields.
+- `context["headers"]`: authenticated request headers when required.
+- `context["base_url"]`: the platform base URL when overriding the default.
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Info
+
+This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+
+For custom requests or hosted authentication, contact richard@taiki.online.
+
+See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
