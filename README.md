@@ -4,10 +4,10 @@ Unofficial Python integrations for Zenoti.
 
 ## Integrations
 
-- `zenoti_list_guests.py` - `list_guests` (124,173 live events).
-- `zenoti_get_guest_profile.py` - `get_guest_profile` (15,904 live events).
-- `zenoti_list_appointments.py` - `list_appointments` (7,124 live events).
-- `zenoti_list_employees.py` - `list_employees` (2,265 live events).
+- `zenoti_list_guests.py` - `list_guests`.
+- `zenoti_get_guest_profile.py` - `get_guest_profile`.
+- `zenoti_list_appointments.py` - `list_appointments`.
+- `zenoti_list_employees.py` - `list_employees`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
