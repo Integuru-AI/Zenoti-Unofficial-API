@@ -4,10 +4,10 @@ Unofficial Python integrations for Zenoti.
 
 ## Integrations
 
-- `zenoti_list_guests.py` - `list_guests` (124,173 live events).
-- `zenoti_get_guest_profile.py` - `get_guest_profile` (15,904 live events).
-- `zenoti_list_appointments.py` - `list_appointments` (7,124 live events).
-- `zenoti_list_employees.py` - `list_employees` (2,265 live events).
+- `zenoti_list_guests.py` - `list_guests`.
+- `zenoti_get_guest_profile.py` - `get_guest_profile`.
+- `zenoti_list_appointments.py` - `list_appointments`.
+- `zenoti_list_employees.py` - `list_employees`.
 
 ## Usage
 
